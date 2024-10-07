@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/krishnapal-rajput](https://www.github.com/krishnapal-rajput)
 
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **Python, JavaScript, React, Tailwind CSS, HTML, CSS, SQL**
 
 - 📫 How to reach me **krishnapalraj07@gmail.com**
 
