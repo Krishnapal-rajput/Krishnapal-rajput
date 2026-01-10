@@ -15,7 +15,7 @@
 - 📫 How to reach me **krishnapalraj07@gmail.com**
 
 - 📄 Know about my professional journey and leadership experience  
-  [https://linkedin.com/in/krishnapal-rajput](https://linkedin.com/in/krishnapal-rajput)
+  [https://linkedin.com/in/krishnapal-rajput](https://linkedin.com/in/krishnapal-rajput) 
 
 - ⚡ Fun fact **I enjoy simplifying complex business and technical problems into actionable insights**
 
