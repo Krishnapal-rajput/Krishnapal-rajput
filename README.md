@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishnapal Rajput</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://krishnapal-rajput.netlify.app/" target="_blank" style="text-decoration: none">Krishnapal Rajput</a></h1>
 <h3 align="center">An MBA candidate with a strong foundation in Business Analysis, Finance & Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapal-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapal-rajput" /> </p>
