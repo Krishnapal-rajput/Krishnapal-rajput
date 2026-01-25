@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnapal-rajput" alt="krishnapal-rajput" /></a> </p>
 
-- 🌱 I’m currently strengthening my skills in **Business Analytics, Financial Analysis, Data Interpretation, and Decision Support Systems**, along with modern web technologies. 
+- 🌱 I’m currently strengthening my skills in **Business Analytics, Financial Analysis, Data Interpretation, and Decision Support Systems**, along with modern web technologies 
 
 - 👨‍💻 My projects focus on **data-driven problem solving, business-oriented applications, and process optimization**, available at  
   [https://www.github.com/krishnapal-rajput](https://www.github.com/krishnapal-rajput)
